@@ -1,0 +1,46 @@
+{
+  "openingRanges": {
+    "AA": { "action": "4-bet for Value", "percentage": 100 },
+    "KK": { "action": "4-bet for Value", "percentage": 100 },
+    "QQ": { "action": "4-bet for Value", "percentage": 100 },
+    "AKs": { "action": "4-bet for Value", "percentage": 100, "percentage": 100 },
+    "AKo": { "action": "4-bet for Value", "percentage": 100 },
+    "AQs": { "action": "Call", "percentage": 100 },
+    "AJs": { "action": "Call", "percentage": 100 },
+    "ATs": { "action": "Call", "percentage": 100 },
+    "KQs": { "action": "Call", "percentage": 100 },
+    "JJ": { "action": "Call", "percentage": 100 },
+    "TT": { "action": "Call", "percentage": 100 },
+    "99": { "action": "Call", "percentage": 100 },
+    "88": { "action": "Call", "percentage": 100 },
+    "77": { "action": "Call", "percentage": 100 },
+    "66": { "action": "Call", "percentage": 100 },
+    "55": { "action": "Call", "percentage": 100 }
+  },
+  "statistics": {
+    "4-bet for Value": {
+      "percentage": 2.6,
+      "hands": 34,
+      "total": 208,
+      "ratio": 16.3
+    },
+    "4-bet as a Bluff": {
+      "percentage": 3.6,
+      "hands": 48,
+      "total": 208,
+      "ratio": 23.1
+    },
+    "Call": {
+      "percentage": 7.7,
+      "hands": 102,
+      "total": 208,
+      "ratio": 49.0
+    },
+    "Fold": {
+      "percentage": 84.3,
+      "hands": 1118,
+      "total": 1326,
+      "ratio": 11.5
+    }
+  }
+}
